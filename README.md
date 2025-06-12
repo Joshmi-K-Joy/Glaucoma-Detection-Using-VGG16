@@ -72,16 +72,16 @@ Glaucoma is a silent eye disease that causes progressive and irreversible damage
 ## Project Structure
 # Glaucoma Detection Using VGG16
 
-glaucoma-detection-vgg16/
-├── dataset/                
+     glaucoma-detection-vgg16/
+├── dataset/
 ├── models/
-│   └── vgg16_trained_model.h5  
+│ └── vgg16_trained_model.h5
 ├── notebooks/
-│   └── model_training.ipynb   
+│ └── model_training.ipynb
 ├── app/
-│   └── main.py                
-├── README.md                
-└── requirements.txt        
+│ └── main.py
+├── README.md
+└── requirements.txt
 
 ## Future Enhancements
 
